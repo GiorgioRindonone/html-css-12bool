@@ -5,10 +5,19 @@
 }
 
 .box1 {
-width: 100%;
-height: 100px;
+height: 20%;
 background-color: pink;
 border: 1px solid violet;
+}
+
+.box2 {
+height: 100%;
+background-color: violet;
+border: 1px solid white;
+}
+
+.padbox {
+  padding:1%;
 }
 
 p {
