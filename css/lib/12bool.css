@@ -1,7 +1,8 @@
 /* framework di griglia 12 colonne */
 
-.container {
-  max-width: 1070px;
+
+
+.raw {
   margin:0 auto;
 }
 
@@ -9,7 +10,7 @@
   float: left;
 }
 
-.container::after {
+.raw::after {
   content: "";
   display: table;
   clear: both;
